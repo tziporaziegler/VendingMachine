@@ -1,0 +1,5 @@
+A01,Candy Bar,1.55,5
+B02,Chips,1.30,3
+C03,Pretzels,1.00,1
+D04,Nuts,2.25,10
+E05,Gum,1.75,20
